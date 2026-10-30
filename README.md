@@ -107,7 +107,7 @@ Performance varies between classes, so accuracy alone does not fully describe th
 
 ### Prerequisites
 
-- Python 3.9 or later
+- Python 3.10 or later
 - pip
 - Jupyter Notebook or Google Colab
 - Kaggle account to access the dataset
