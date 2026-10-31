@@ -150,23 +150,9 @@ The trained model and class labels are available in the `Weights` directory.
 - `best_covid_mobilenetv2.keras`
 - `class_labels.json`
 
-## 7. Screenshots and Deployment Link
+## 7. Deployment Link
 
-### Model Results
-
-Add screenshots of the following outputs to demonstrate the model's performance:
-
-- Training and validation accuracy
-- Training and validation loss
-- Confusion matrix
-- Classification report
-- Sample predictions
-
-### Deployment
-
-Live Demo: Not deployed yet.
-
-Add your deployment URL here once the application is available online.
+Live Demo: https://covid-19-detection-using-deep-learning.streamlit.app/
 
 ## 8. Medical-Use Disclaimer
 
